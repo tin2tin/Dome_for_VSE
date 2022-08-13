@@ -1,3 +1,5 @@
+Patch moved here: https://gitlab.com/sungreen/domik
+
 # DomIK by Sungreen
 Blender VSE filter to curve video to look like a spherical mirror.
 
